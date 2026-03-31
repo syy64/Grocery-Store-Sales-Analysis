@@ -113,7 +113,7 @@ Health-conscious purchasing behavior is consistent regardless of store format.
 
 ## 📁 Project Files
 - [SQL Queries](grocery_store_analysis.sql)  
-- [Excel Dataset](Grocery.xlsx)  
+- [Excel Dataset](Grocery.csv)  
 - [Dashboard](grocery_store_dashboard.pdf)  
 
 ## 🛠 Tools and Skills Used
